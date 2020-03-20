@@ -4,7 +4,7 @@ This is a model trained using FER2013 dataset and later used for real-time emoti
 Kaggle Challenge winner  - 71.2% accuracy. 
 This model - 62.6% accuracy.
 
-## Demo
+
 
 ## Getting started
   I used pytorch for building, training and evaluating the neural network. OpenCV captures frames from the camera and finds all faces in the image. Only a face which covers biggest area of the screen is picked, resized and fed into previosly trained model.
