@@ -1,10 +1,12 @@
 # Real-time-emotion-recognizer
-This is a model trained using FER2013 dataset and later used for real-time emotion recognition.
+This is a model trained using FER2013 dataset and later used for real-time emotion recognition. Predicted emotions are visualized using emotes.
 
 Kaggle Challenge winner  - 71.2% accuracy. 
 This model - 62.6% accuracy.
 
-
+![Happy](/test_img_pred/happy_pred.png)
+![Neutral](/test_img_pred/neutral_pred.png)
+![Angry](/test_img_pred/angry_pred.png)
 
 ## Getting started
   I used pytorch for building, training and evaluating the neural network. OpenCV captures frames from the camera and finds all faces in the image. Only a face which covers biggest area of the screen is picked, resized and fed into previosly trained model.
