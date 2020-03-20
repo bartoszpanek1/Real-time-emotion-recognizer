@@ -34,7 +34,7 @@ pip install opencv-python
 ## Usage
 
 ##### Real-time emotion recognition
-  If you want to run real-time emotion recognition using already built model, just run the camera.py file.
+  If you want to run real-time emotion recognition using already built model, just run the camera.py file. To get the best results, your face should be in front of the camera, the source of light should not be behind you.
   
 ##### Training model
   If you want to train model, run the 'train_model' function in model.py file. Note that this functions needs fer2013.csv dataset to proceed.
