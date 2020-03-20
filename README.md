@@ -1,8 +1,8 @@
 # Real-time-emotion-recognizer
 This is a model trained using FER2013 dataset and later used for real-time emotion recognition.
 
-Kaggle Challenge winner  - 71.2% accuracy
-This model - 62.6% accuracy
+Kaggle Challenge winner  - 71.2% accuracy. 
+This model - 62.6% accuracy.
 
 ## Demo
 
