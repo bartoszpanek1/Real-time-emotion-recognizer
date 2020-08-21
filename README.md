@@ -8,7 +8,9 @@ Kaggle Challenge winner  - 71.2% accuracy.
 
 
 ![Happy](/test_img_pred/happy_pred.png)
+
 ![Neutral](/test_img_pred/neutral_pred.png)
+
 ![Angry](/test_img_pred/angry_pred.png)
 
 ## Getting started
