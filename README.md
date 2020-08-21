@@ -44,8 +44,6 @@ pip install opencv-python
   
 ##### Testing model using FER2013 test set
   If you want to test model using FER2013 test set, run the 'test_model' function in model.py file. Note that this functions needs fer2013.csv dataset to proceed.
-  
-##### Testing model using three real-world pictures
-  The test_images folder contains three pictures of boxers expressing three emotions. To test a model using these pictures, 'test' function in test.py file and specify which picture you want to use.
+
   
   
